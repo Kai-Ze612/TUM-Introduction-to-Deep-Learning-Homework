@@ -1,1 +1,1 @@
-## This is the home assignment of Course: Introduction to deep learning at TUM
+## This is the home assignments of Course: Introduction to deep learning at TUM
